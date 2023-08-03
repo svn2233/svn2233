@@ -31,7 +31,7 @@
 
 6. [UC Davis SQL project "Profiling and Analyzing Yelp Dataset](https://github.com/svn2233/SQL_UC_DAVIS_PROJECT/blob/6fb33d66f94129bf17fe6b03d74e722bbdc89a57/project.md) 📱
 
-7. [Google Capstone Project Using R](https://github.com/svn2233/Using_R_Google_Data_Analytics_Capstone_Project/blob/33f16c33b864c49017a00e6353542637188f90fe/Google_%20Capstone_%20Project_R.md) 💻
+7. [Google Capstone Project Using R](https://github.com/svn2233/Using_R_Google_Data_Analytics_Capstone_Project/blob/4d5793ed3ddc2e6ebde5fcad202b9bebe0cca86f/Google_%20Capstone_%20Project_R.md) 💻
 
 <br>
 
