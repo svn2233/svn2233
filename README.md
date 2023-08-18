@@ -29,7 +29,7 @@
 
 5. [Apple Store Dataset SQL Project](https://github.com/svn2233/applestoredata_sql_project/blob/91af80ddc2d43e7df453255a520ff696c147a185/Apple%20Store%20Dataset%20SQL%20Project.md) 🍏
 
-6. [UC Davis SQL project "Profiling and Analyzing Yelp Dataset](https://github.com/svn2233/SQL_UC_DAVIS_PROJECT/blob/6fb33d66f94129bf17fe6b03d74e722bbdc89a57/project.md) 📱
+6. [UC Davis SQL project Profiling and Analyzing Yelp Dataset](https://github.com/svn2233/SQL_UC_DAVIS_PROJECT/blob/6fb33d66f94129bf17fe6b03d74e722bbdc89a57/project.md) 📱
 
 7. [Google Capstone Project Using R](https://github.com/svn2233/Using_R_Google_Data_Analytics_Capstone_Project/blob/4d5793ed3ddc2e6ebde5fcad202b9bebe0cca86f/Google_%20Capstone_%20Project_R.md) 💻
 
