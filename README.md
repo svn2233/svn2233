@@ -1,11 +1,13 @@
 # 💫 About Me:
-  Hi there 👋, My name is Steven Nguyen a Data Analyst specializing in SQL, Excel, Power BI, and Tableau. I hold certificates in Google Data Analytics, Google Business Intelligence, and Salesforce Sales Operations and many more. 
+Hi there 👋, I'm Steven Nguyen, an Informatics Analyst currently working in the medical field. 
+
+With years of experience in data analysis, my journey began when I started learning about data analysis and building PowerBI dashboards during the 2020 lockdown. Quickly becoming the go-to guy for the entire New York Sales Team at Monster Energy for developing PowerBI dashboards and presentations for the team. 
+
+I specialize in leveraging data insights for strategic decision-making and operational efficiency. Excelling in SQL, Excel, Power BI, and Tableau, and certified in Google Data Analytics, Google Business Intelligence, Salesforce Sales Operations, Tableau, Excel, and Power BI, I'm committed to driving results through data-driven recommendations and collaborative problem-solving.
+
+My journey has equipped me with the expertise to transform data into actionable insights for impactful outcomes.
   
-  I am proficient in analyzing sales, revenue, costs, customer trends, and KPIs, creating interactive Tableau and Power BI dashboards for actionable insights for senior leadership. Throughout my career, I've consistently achieved remarkable results through data-driven recommendations. 
-  
-  At my current job, I not only secured a substantial 15% increase in monthly sales but also contributed to a remarkable 52% increase in employee morale and an impressive 38% boost in productivity, all driven by a data-backed business plan. In my previous role, I leveraged data analytics to orchestrate a remarkable turnaround in my sales territory, transforming it from a concerning -18% decline to a thriving 15% year-over-year growth!
-  
-  Feel free to explore my website and check out my portfolio, highlighting the projects I've accomplished in Data Analytics and Salesforce.Please click on the link to view my website after the arrow. ----> [Portfolio Website](https://stevennguyenportfolio.net/)
+Feel free to explore my website and check out my portfolio, highlighting the projects I've accomplished in Data Analytics and Salesforce.Please click on the link to view my website after the arrow. ----> [Portfolio Website](https://stevennguyenportfolio.net/)
 
   <br>
 
