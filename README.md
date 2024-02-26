@@ -14,7 +14,7 @@ Feel free to explore my website and check out my portfolio, highlighting the pro
 # 💻 Tech Stack:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 📊 Data Analytics Skills: SQL, Excel, Power BI, Tableau, Google Analytics, Python, R, Sparklines, PowerQuery, DAX
+#### 📊 Data Analytics Skills: SQL, SSMS, SSRS, SSIS, Excel, Power BI, Tableau, Google Analytics, Python, R, Sparklines, PowerQuery, DAX
 
 #### 🚀 Sales and Marketing Skills: B2B Sales, CRM, Salesforce, KARMA, Microsoft Teams, PowerPoint, Word
 
